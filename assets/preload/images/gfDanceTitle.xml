@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="titleLeft0000" x="0" y="0" width="807" height="396"/>
+	<SubTexture name="titleLeft0001" x="0" y="0" width="807" height="396"/>
+	<SubTexture name="titleLeft0002" x="0" y="0" width="807" height="396"/>
+	<SubTexture name="titleLeft0003" x="0" y="0" width="807" height="396"/>
+	<SubTexture name="titleLeft0004" x="807" y="0" width="807" height="396"/>
+	<SubTexture name="titleLeft0005" x="807" y="0" width="807" height="396"/>
+	<SubTexture name="titleLeft0006" x="807" y="0" width="807" height="396"/>
+	<SubTexture name="titleLeft0007" x="807" y="0" width="807" height="396"/>
+	<SubTexture name="titleLeft0008" x="0" y="396" width="807" height="396"/>
+	<SubTexture name="titleLeft0009" x="0" y="396" width="807" height="396"/>
+	<SubTexture name="titleRight0000" x="807" y="396" width="807" height="396"/>
+	<SubTexture name="titleRight0001" x="807" y="396" width="807" height="396"/>
+	<SubTexture name="titleRight0002" x="807" y="396" width="807" height="396"/>
+	<SubTexture name="titleRight0003" x="807" y="396" width="807" height="396"/>
+	<SubTexture name="titleRight0004" x="0" y="792" width="807" height="396"/>
+	<SubTexture name="titleRight0005" x="0" y="792" width="807" height="396"/>
+	<SubTexture name="titleRight0006" x="0" y="792" width="807" height="396"/>
+	<SubTexture name="titleRight0007" x="0" y="792" width="807" height="396"/>
+	<SubTexture name="titleRight0008" x="807" y="792" width="807" height="396"/>
+	<SubTexture name="titleRight0009" x="807" y="792" width="807" height="396"/>
+</TextureAtlas>

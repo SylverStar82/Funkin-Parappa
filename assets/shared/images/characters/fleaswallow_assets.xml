@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fleaswallow_assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flea Sing Note DOWN0000" x="0" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0001" x="0" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0002" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0003" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0004" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0005" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0006" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0007" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0008" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0009" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0010" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0011" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0012" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0013" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0014" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note DOWN0015" x="438" y="0" width="438" height="636"/>
+	<SubTexture name="Flea Sing Note LEFT0000" x="876" y="0" width="435" height="684" frameX="0" frameY="0" frameWidth="436" frameHeight="685"/>
+	<SubTexture name="Flea Sing Note LEFT0001" x="876" y="0" width="435" height="684" frameX="0" frameY="0" frameWidth="436" frameHeight="685"/>
+	<SubTexture name="Flea Sing Note LEFT0002" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0003" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0004" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0005" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0006" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0007" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0008" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0009" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0010" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0011" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0012" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0013" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0014" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note LEFT0015" x="1311" y="0" width="436" height="685"/>
+	<SubTexture name="Flea Sing Note RIGHT0000" x="1747" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0001" x="1747" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0002" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0003" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0004" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0005" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0006" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0007" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0008" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0009" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0010" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0011" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0012" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0013" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0014" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0015" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note RIGHT0016" x="2155" y="0" width="408" height="678"/>
+	<SubTexture name="Flea Sing Note UP0000" x="2563" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0001" x="2563" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0002" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0003" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0004" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0005" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0006" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0007" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0008" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0009" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0010" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0011" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0012" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0013" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0014" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea Sing Note UP0015" x="3003" y="0" width="440" height="718"/>
+	<SubTexture name="Flea idle dance0000" x="3443" y="0" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0001" x="3443" y="0" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0002" x="0" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0003" x="0" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0004" x="422" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0005" x="422" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0006" x="844" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0007" x="844" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0008" x="1266" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0009" x="1266" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0010" x="1688" y="718" width="422" height="691"/>
+	<SubTexture name="Flea idle dance0011" x="1688" y="718" width="422" height="691"/>
+	<SubTexture name="Money DOWN0000" x="2110" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0001" x="2110" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0002" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0003" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0004" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0005" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0006" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0007" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0008" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0009" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0010" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0011" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0012" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0013" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0014" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money DOWN0015" x="2548" y="718" width="438" height="636"/>
+	<SubTexture name="Money Left0000" x="2986" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0001" x="2986" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0002" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0003" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0004" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0005" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0006" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0007" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0008" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0009" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0010" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0011" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0012" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0013" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0014" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money Left0015" x="3421" y="718" width="435" height="684"/>
+	<SubTexture name="Money RIGHT0000" x="0" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0001" x="0" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0002" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0003" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0004" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0005" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0006" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0007" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0008" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0009" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0010" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0011" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0012" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0013" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0014" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money RIGHT0015" x="408" y="1409" width="408" height="678"/>
+	<SubTexture name="Money UP0000" x="816" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0001" x="816" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0002" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0003" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0004" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0005" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0006" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0007" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0008" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0009" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0010" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0011" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0012" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0013" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0014" x="1256" y="1409" width="440" height="718"/>
+	<SubTexture name="Money UP0015" x="1256" y="1409" width="440" height="718"/>
+</TextureAtlas>
