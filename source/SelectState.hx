@@ -134,7 +134,7 @@ class SelectState extends MusicBeatState
 					changeSelection(1);
 				}
 		
-				if (accepted)
+				if (accepted && menuItems[curSelected] != 'VSPARAPPA' && menuItems[curSelected] != 'PTR2')
 				{
 					alreadySelectedShit = true;
 					var daSelected:String = menuItems[curSelected];
@@ -164,7 +164,7 @@ class SelectState extends MusicBeatState
 								FlxG.switchState(new StoryMenuState1());
 							
 							});
-						
+						/*
 						case "PTR2":
 							FlxG.sound.play(Paths.sound('confirmMenu'));
 							
@@ -184,7 +184,7 @@ class SelectState extends MusicBeatState
 									FlxG.switchState(new SelectState());
 								
 								});
-					
+						*/
 						
 						default:
 							// so it doesnt crash lol
