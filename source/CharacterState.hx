@@ -53,7 +53,7 @@ class CharacterState extends MusicBeatState
 	var canSelectLeft:Bool = true;
 	var canSelectRight:Bool = true;
 	//var tex:FlxAtlasFrames;
-	
+	public static var stateReturn:FlxState;
 
 	//var shittyNames:Array<String> = CoolUtil.coolTextFile('assets/preload/data/boyfriendnames.txt');
 		
@@ -212,10 +212,9 @@ class CharacterState extends MusicBeatState
 		
 				if (controls.BACK)
 				{
-					if (storyMode)
-					FlxG.switchState(new MainMenuState());
-					else
-					FlxG.switchState(new MainMenuState());
+					
+					FlxG.switchState(stateReturn);
+					
 				}
 		}
 

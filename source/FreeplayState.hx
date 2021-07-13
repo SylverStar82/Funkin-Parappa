@@ -217,6 +217,7 @@ class FreeplayState extends MusicBeatState
 			//CharacterState.previousState = new FreeplayState();
 			trace('this loaded AAAAA');
 				FlxG.switchState(new CharacterState());
+				CharacterState.stateReturn = new FreeplayState();
 				trace('this loaded BBBBBBB');
 		}
 	}

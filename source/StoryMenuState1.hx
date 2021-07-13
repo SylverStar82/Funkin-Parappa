@@ -295,6 +295,7 @@ class StoryMenuState1 extends MusicBeatState
 			{
 				//CharacterState.previousState = new StoryMenuState();
 				FlxG.switchState(new CharacterState());
+				CharacterState.stateReturn = new StoryMenuState1();
 			});
 		}
 	}
