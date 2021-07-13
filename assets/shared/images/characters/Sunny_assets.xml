@@ -197,24 +197,24 @@
 	<SubTexture name="Sunny danceLeft0005" x="2100" y="1258" width="700" height="629"/>
 	<SubTexture name="Sunny danceLeft0006" x="2800" y="1258" width="700" height="629"/>
 	<SubTexture name="Sunny danceLeft0007" x="2800" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceLeft0008" x="0" y="1887" width="700" height="629"/>
-	<SubTexture name="Sunny danceLeft0009" x="0" y="1887" width="700" height="629"/>
-	<SubTexture name="Sunny danceLeft0010" x="7000" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceLeft0011" x="7000" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceLeft0012" x="3500" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceLeft0013" x="3500" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0000" x="4200" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0001" x="4200" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0002" x="4900" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0003" x="4900" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0004" x="5600" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0005" x="5600" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0006" x="6300" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0007" x="6300" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0008" x="7000" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0009" x="7000" y="1258" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0010" x="0" y="1887" width="700" height="629"/>
-	<SubTexture name="Sunny danceRight0011" x="0" y="1887" width="700" height="629"/>
+	<SubTexture name="Sunny danceLeft0008" x="3500" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceLeft0009" x="3500" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceLeft0010" x="4200" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceLeft0011" x="4200" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceLeft0012" x="4900" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceLeft0013" x="4900" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0000" x="5600" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0001" x="5600" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0002" x="6300" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0003" x="6300" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0004" x="7000" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0005" x="7000" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0006" x="0" y="1887" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0007" x="0" y="1887" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0008" x="4200" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0009" x="4200" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0010" x="3500" y="1258" width="700" height="629"/>
+	<SubTexture name="Sunny danceRight0011" x="3500" y="1258" width="700" height="629"/>
 	<SubTexture name="Sunny danceRight0012" x="700" y="1887" width="700" height="629"/>
 	<SubTexture name="Sunny danceRight0013" x="700" y="1887" width="700" height="629"/>
 	<SubTexture name="Sunny danceRight0014" x="1400" y="1887" width="700" height="629"/>

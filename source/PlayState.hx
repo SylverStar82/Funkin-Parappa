@@ -3293,7 +3293,11 @@ class PlayState extends MusicBeatState
 
 			songScore -= 10;
 
-			FlxG.sound.play(Paths.soundRandom('missnote', 1, 3), FlxG.random.float(0.1, 0.2));
+			if (CharacterState.selectedChar == "parappa")
+				{
+					FlxG.sound.play(Paths.soundRandom('parappa_miss', 1, 2), FlxG.random.float(0.5, 0.8));
+				}
+			else FlxG.sound.play(Paths.soundRandom('missnote', 1, 3), FlxG.random.float(0.1, 0.2));
 			// FlxG.sound.play(Paths.sound('missnote1'), 1, false);
 			// FlxG.log.add('played imss note');
 
