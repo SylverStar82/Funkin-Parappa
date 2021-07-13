@@ -793,7 +793,7 @@ class PlayState extends MusicBeatState
 								add(nycBuildings);
 								nycBuildings.offset.x -= 10000;
 								nycBuildings.offset.y += 10;
-								FlxTween.tween(nycBuildings,{x : 1751}, 5, {type:LOOPING});
+								nycBuildings.velocity.x = 900;
 
 								var nycCar:FlxSprite = new FlxSprite(-550, 810).loadGraphic(Paths.image('nyc/car'));
 								nycCar.setGraphicSize(Std.int(nycCar.width * 1.3));
@@ -954,15 +954,9 @@ class PlayState extends MusicBeatState
 		}
 
 
-		if(CharacterState.selectedChar == "bf")
-			{
-				boyfriend = new Boyfriend(770, 450, SONG.player1);
-			}
-		else
-			{
+	
 				boyfriend = new Boyfriend(770, 450, CharacterState.selectedChar);
-			}
-
+			
 		// REPOSITIONING PER STAGE
 		switch (curStage)
 		{
@@ -3794,38 +3788,14 @@ class PlayState extends MusicBeatState
 					boyfriend.playAnim('hey', true);
 					gf.playAnim('cheer', true);
 				}
-
-			if (curBeat == 108)
-				{
-					
-					//nycBuildings.screenCenter();
-					//nycBuildings.offset.x -= 10000;
-					//nycBuildings.offset.y += 10;
-					FlxTween.tween(nycBuildings,{x : 1751}, 5000, {type:LOOPING});
-					
-				}
-		
-			if (curBeat == 152)
-				{
-					
-					
-					//nycBuildings.screenCenter();
-					//nycBuildings.offset.x -= 10000;
-					//nycBuildings.offset.y += 10;
-					
-					FlxTween.tween(nycBuildings,{x : 3200}, 2, {type:LOOPING});
-					
-				}
-
-			if (curBeat == 196)
-				{
-						
-					//slowingSpeed += 150;
-					
-					FlxTween.tween(nycBuildings,{x : 1751}, 5000, {type:LOOPING});
-					//trace(slowingSpeed);
-				}
-
+			switch (curBeat){
+			case 108:
+			nycBuildings.velocity.x = 0;
+			case 152:
+			nycBuildings.velocity.x = 1400;
+			case 196:
+			nycBuildings.velocity.x = 0;
+			}
 
         	if (curBeat >= 12 && curBeat < 16)
 				{
